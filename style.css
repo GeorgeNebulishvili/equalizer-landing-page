@@ -296,6 +296,7 @@ p.month     {
     body  {
         padding: 62px 165px 91px;
         background-image: url("./assets/bg-main-desktop.png");
+        background-repeat: unset;
         background-position: top -100px right 50 ;
         background-size:auto;
     }
